@@ -1,0 +1,12 @@
+{
+  "name": "i-node",
+  "version": "1.0.0",
+  "description": "Fallback orbitDB instance",
+  "main": "bootstrap.js",
+  "dependencies": {
+    "ipfs": "^0.33.1",
+    "orbit-db": "^0.19.9",
+    "dotenv": "^6.1.0"
+  },
+  "license": "GPL-3.0"
+}
